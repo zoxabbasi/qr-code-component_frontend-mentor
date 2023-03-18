@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/zoxabbasi/qr-code-component_frontend-mentor)
+- Live Site URL: [Add live site URL here](https://zoxabbasi.github.io/qr-code-component_frontend-mentor/)
 
 ## My process
 
@@ -47,10 +47,10 @@ I should would more with CSS grid to get a better understanding of it.
 
 ### Useful resources
 
-- [Kein Powell](https://www.youtube.com/@KevinPowell) - Kevin's video tutorials were of greate help on this project.
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) - Kevin's video tutorials were of greate help on this project.
 
 ## Author
 
-- Website - [Talal Abbasi](https://www.zoxabbasi.github.io)
+- Website - [Talal Abbasi](https://zoxabbasi.github.io/)
 - Frontend Mentor - [@zoxabbasi](https://www.frontendmentor.io/profile/zoxabbasi)
 - Twitter - [@zoxabbasi](https://www.twitter.com/zoxabbasi)
